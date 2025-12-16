@@ -1,0 +1,68 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: irpas
+Source: http://www.phenoelit.org/fr/tools.html
+Comment: Phenoelit-License violates DFSG #6
+
+Files: *
+Copyright: 2000-2001 FX <fx@phenoelit.de>
+License: Phenoelit-License
+
+Files: debian/*
+Copyright: 2002 Vince Mulhollon <vlm@debian.org>
+           2016-2021 Sophie Brun <sophie@offensive-security.com>
+           2016-2018 Raphaël Hertzog <hertzog@debian.org>
+           2018 SZ Lin (林上智) <szlin@debian.org>
+           2024 Sven Geuer <sge@debian.org>
+License: Phenoelit-License or GPL-3
+
+License: Phenoelit-License
+ Phenoelit tools and all components and concepts included are copyright
+ by FX (c) 2000, 2001
+ The software is free for non-commercial use. It may be modified and used
+ as it is, or parts of it, in any free software project, if the following
+ notice is included in the documentation and source code:
+ .
+ "This free software uses code and/or concepts developed by Phenoelit
+ (http://www.phenoelit.de) with the permission of the original developers."
+ .
+ Commercial applications making use of the code, part of the code or concepts
+ provided in the software or documents are required to obtain a written
+ permission from the original developer. Such permission can be obtained
+ from FX uppon request.
+ .
+ Use of this software is not limmited. It may be used for commercial or
+ non-commercial purposes. Donations, especially hardware such as routers
+ are very welcome, but not required.
+ .
+ Redistribution, when access to the redistribution is for free or is a fee
+ to cover cost of production is allowed. Reselling the software is considered
+ an commercial application
+ .
+ This program comes as it is. Use it at your own risk. This is software
+ with ABSOLUTELY NO WARRANTY. This program is distributed in the hope that
+ it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+ warranty of FITNESS FOR A PARTICULAR PURPOSE.
+ .
+ Phenoelit and it's developers are not responsible for what the user does
+ with help of our software. THE USER MUST NOT USE SOFTWARE OBTAINED FROM
+ PHENOELIT FOR ILLEGAL ACTIONS.
+ .
+ By downloading and / or using our software, you agree with these terms of use.
+
+License: GPL-3
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this package; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in `/usr/share/common-licenses/GPL-3'.
